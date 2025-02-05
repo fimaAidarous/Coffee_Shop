@@ -2,7 +2,7 @@ import React from 'react'
 import { GiHamburgerMenu } from "react-icons/gi";
 import { motion } from "framer-motion";
 
-function Navbar({sidebar, setSidebar}) {
+const Navbar = ({sidebar, setSidebar}) => {
   return (
     <nav className='absolute top-0 left-0 w-full
       pt-19 text-white z-10'>

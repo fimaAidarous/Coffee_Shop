@@ -48,7 +48,7 @@ const containerVariants = {
     },
   },
 };
-function Services() {
+const Services = () => {
   return (
     <div
       className="container my-16
