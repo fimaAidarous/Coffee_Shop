@@ -27,7 +27,7 @@ const Hero = () => {
           {/* Hero section */}
           <div
             className="grid grid-cols-1 md:grid-cols-2
-             lg:grid-cols-3 place-items-center min-h-[850px]"
+             lg:grid-cols-3 place-items-center min-h-[600px]"
           >
             {/* text content section */}
             <div
