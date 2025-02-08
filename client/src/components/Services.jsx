@@ -78,7 +78,7 @@ const Services = () => {
             type: "spring",
             stiffness: 150,
             damping: 10,
-            delay: 0.4,
+            delay: 0.6,
           }}
           className="text-sm opacity-50"
         >

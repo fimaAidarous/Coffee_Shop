@@ -41,7 +41,7 @@ const Hero = () => {
                   type: "spring",
                   stiffness: 100,
                   damping: 10,
-                  delay: 1.2,
+                  delay: 0.2,
                 }}
                 className="text-7xl font-bold 
                     leading-tight ml-14 absolute top-20 left-10
