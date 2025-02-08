@@ -1,5 +1,5 @@
 import React from "react";
-import { delay, easeIn, motion } from "framer-motion";
+import { motion } from "framer-motion";
 import coff1 from "../assets/drink.png";
 import coff2 from "../assets/frozen-coffee-recipe-10.png";
 import coff3 from "../assets/frozen.png";
