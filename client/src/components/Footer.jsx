@@ -27,7 +27,7 @@ const Footer = () => {
             transition={{ delay: 0.2, duration: 0.6 }}
             className="space-y-6"
           >
-            <h1 className="text-3xl font-bold uppercase">Coders Cafe</h1>
+            <h1 className="text-3xl font-bold uppercase">Health Workers Cafe</h1>
             <p className="text-sm max-w-[300px]">
               "Stay connected with Sip & Savor! ☕✨ Follow us on social media for the latest updates, exclusive offers,
               and coffee inspiration. Your perfect cup is just a sip away!"
@@ -89,7 +89,7 @@ const Footer = () => {
           transition={{ delay: 0.8, duration: 0.6 }}
           className="text-center mt-8 border-t border-gray-300 pt-4"
         >
-          <p className="text-sm">© {new Date().getFullYear()} Coders Cafe. All Rights Reserved.</p>
+          <p className="text-sm">© {new Date().getFullYear()} Health Workers Cafe. All Rights Reserved.</p>
         </motion.div>
       </div>
     </div>
